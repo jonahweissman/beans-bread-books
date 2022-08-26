@@ -1,0 +1,18 @@
+.post-title {
+    font-size: 22px;
+}
+
+.archive-month-header {
+    font-size: 22px;
+}
+
+.poem-content {
+  overflow-x: scroll;
+  white-space: pre;
+  font-size: 12px;
+}
+
+.poem-content p {
+  line-height: 1.8;
+  margin: 0px;
+}
