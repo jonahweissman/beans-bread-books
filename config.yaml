@@ -35,10 +35,10 @@ params:
         - writing
         - original
     homeInfoParams:
-        Title: Travel log
-        Content: I like trains
+        Title: Jonah's Amtrak adventures
+        Content: updates from life on the rails
     mainSections:
-      - posts
+      - post
     ShowToc: true
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
