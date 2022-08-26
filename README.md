@@ -1,4 +1,8 @@
-# garden
+# My travel blog source code
+
+Thanks to Tanner
+
+# set up
 
 1. Change CNAME entry for custom Domain Name
 2. Set deployment branch to be "gh-pages"

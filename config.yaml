@@ -1,27 +1,27 @@
-baseURL: https://travel.tannerdw.com
+baseURL: https://beansbreadbooks.jonahweissman.com
 disablePathToLower: true
 languageCode: en-us
-title: tanner dw goes
+title: Beans, Bread, Books
 theme: PaperMod
 
 menu:
   main:
-    # - identifier: posts
-    #   name: posts
-    #   url: /post/
-    #   weight: 10
+    - identifier: posts
+      name: posts
+      url: /post/
+      weight: 10
     # - identifier: writing
     #   name: writing
     #   url: /writing/
     #   weight: 10
-    - identifier: post archive
-      name: post archive
-      url: /post-archive/
-      weight: 20
-    - identifier: writing archive
-      name: writing archive
-      url: /writing-archive/
-      weight: 20
+    # - identifier: post archive
+    #   name: post archive
+    #   url: /post-archive/
+    #   weight: 20
+    # - identifier: writing archive
+    #   name: writing archive
+    #   url: /writing-archive/
+      # weight: 20
     - identifier: tags
       name: tags
       url: /tags/
@@ -35,11 +35,10 @@ params:
         - writing
         - original
     homeInfoParams:
-        Title: meanderings
-        Content: sometimes i explore
+        Title: Travel log
+        Content: I like trains
     mainSections:
-      - post
-      - writing
+      - posts
     ShowToc: true
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
