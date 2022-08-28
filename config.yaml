@@ -10,18 +10,6 @@ menu:
       name: posts
       url: /post/
       weight: 10
-    # - identifier: writing
-    #   name: writing
-    #   url: /writing/
-    #   weight: 10
-    # - identifier: post archive
-    #   name: post archive
-    #   url: /post-archive/
-    #   weight: 20
-    # - identifier: writing archive
-    #   name: writing archive
-    #   url: /writing-archive/
-      # weight: 20
     - identifier: tags
       name: tags
       url: /tags/
@@ -30,6 +18,9 @@ menu:
       name: search
       url: /search/
       weight: 40
+    - identifier: guestbook
+      name: guestbook
+      url: /guestbook/
 params:
     poemTypes:
         - writing
