@@ -36,11 +36,7 @@ params:
     ShowCodeCopyButtons: false
     assets:
         disableHLJS: true
-    # socialIcons: # optional
-    #     - name: "<platform>"
-    #         url: "<link>"
-    #     - name: "<platform 2>"
-    #         url: "<link2>"
+    dateFormat: "January 2, 2006 3:04 PM MST"
 markup:
   # goldmark:
   #   renderer:

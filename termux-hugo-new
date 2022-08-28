@@ -1,0 +1,2 @@
+#!/bin/bash
+HUGO_DATE=$(date) HUGO_TZ=$(getprop persist.sys.timezone) hugo new $@

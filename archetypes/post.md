@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+date: {{ time (getenv "HUGO_DATE") (getenv "HUGO_TZ")  }}
 type: post
 ---
 
