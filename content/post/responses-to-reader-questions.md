@@ -2,6 +2,8 @@
 title: "Responses to Reader Questions"
 date: 2022-08-29T08:53:09-07:00
 tags:
+  - beans
+  - bread
   - books
 type: post
 ---
