@@ -2,6 +2,8 @@
 title: "Returning to Charlottesville"
 date: 2022-09-25T16:55:40-07:00
 type: post
+tags:
+  - beans
 ---
 
 I am sitting on the California Zephyr, train 6 to Chicago. The familiar rumble of the tracks is gone, the train sits still. We await the cargo train ahead of us. Its crew is walking the length of the mile plus long train, looking for mechanical problems.
